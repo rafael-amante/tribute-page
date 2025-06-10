@@ -1,0 +1,36 @@
+* {
+  text-align: center;
+}
+
+main {
+   width: 80%;
+  background-color: rgb(199, 197, 197);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-width:100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+li {
+  margin-top: 2em;
+  text-align: left;
+}
